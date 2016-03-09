@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/cglib-2.1_3-src.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/extendedOJ.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jcommon-1.0.0-rc1-cvs.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jcommon-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/junit-old.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/objenesis-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jMock/jmock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jMock/jmock-junit3-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jMock/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jMock/jmock-legacy-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/JV/Desktop/SENG437/A4/JFreeChart v3.0/lib/jMock/jmock-script-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
